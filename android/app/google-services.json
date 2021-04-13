@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1059757214616",
+    "firebase_url": "https://finaltask4.firebaseio.com",
+    "project_id": "finaltask4",
+    "storage_bucket": "finaltask4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059757214616:android:fb824cf268c58fb349f9ed",
+        "android_client_info": {
+          "package_name": "com.kumar.firetask_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059757214616-o54c4j9v3g7iu1bughu4g0bij0c783is.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJXmZ0oV8fSzKbBRTpFtJ7qD7tpDznZlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059757214616-o54c4j9v3g7iu1bughu4g0bij0c783is.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
